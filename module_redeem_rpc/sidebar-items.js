@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Redeem","A struct that implements the [`RedeemApi`]."]],"trait":[["RedeemApiClient","Client implementation for the `RedeemApi` RPC API."],["RedeemApiServer","Server trait implementation for the `RedeemApi` RPC API."],["RedeemRuntimeApi",""]]});

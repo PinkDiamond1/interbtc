@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["PARA_ID",""]],"fn":[["interlay_dev_config",""],["interlay_mainnet_config",""]]});

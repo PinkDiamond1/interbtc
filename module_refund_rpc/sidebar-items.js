@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Refund","A struct that implements the [`RefundApi`]."]],"trait":[["RefundApiClient","Client implementation for the `RefundApi` RPC API."],["RefundApiServer","Server trait implementation for the `RefundApi` RPC API."],["RefundRuntimeApi",""]]});

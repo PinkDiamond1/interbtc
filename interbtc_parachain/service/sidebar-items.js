@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["new_partial","Starts a `ServiceBuilder` for a full service."],["start_instant",""],["start_node","Start a normal parachain node."]],"struct":[["InterlayRuntimeExecutor",""],["KintsugiRuntimeExecutor",""],["TestnetInterlayRuntimeExecutor",""],["TestnetKintsugiRuntimeExecutor",""]],"trait":[["RuntimeApiCollection",""]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Replace","A struct that implements the [`ReplaceApi`]."]],"trait":[["ReplaceApiClient","Client implementation for the `ReplaceApi` RPC API."],["ReplaceApiServer","Server trait implementation for the `ReplaceApi` RPC API."],["ReplaceRuntimeApi",""]]});

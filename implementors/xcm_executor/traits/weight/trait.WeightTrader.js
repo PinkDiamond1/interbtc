@@ -1,0 +1,4 @@
+(function() {var implementors = {};
+implementors["testnet_interlay_runtime_parachain"] = [{"text":"impl WeightTrader for <a class=\"struct\" href=\"testnet_interlay_runtime_parachain/xcm_config/struct.FreeTestExection.html\" title=\"struct testnet_interlay_runtime_parachain::xcm_config::FreeTestExection\">FreeTestExection</a>","synthetic":false,"types":["testnet_interlay_runtime_parachain::xcm_config::FreeTestExection"]}];
+implementors["testnet_kintsugi_runtime_parachain"] = [{"text":"impl WeightTrader for <a class=\"struct\" href=\"testnet_kintsugi_runtime_parachain/xcm_config/struct.FreeTestExection.html\" title=\"struct testnet_kintsugi_runtime_parachain::xcm_config::FreeTestExection\">FreeTestExection</a>","synthetic":false,"types":["testnet_kintsugi_runtime_parachain::xcm_config::FreeTestExection"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

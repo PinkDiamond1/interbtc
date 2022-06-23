@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Relay","A struct that implements the [`RelayApi`]."]],"trait":[["RelayApiClient","Client implementation for the `RelayApi` RPC API."],["RelayApiServer","Server trait implementation for the `RelayApi` RPC API."],["RelayRuntimeApi",""]]});

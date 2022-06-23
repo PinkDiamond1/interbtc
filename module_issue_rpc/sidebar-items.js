@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Issue","A struct that implements the [`IssueApi`]."]],"trait":[["IssueApiClient","Client implementation for the `IssueApi` RPC API."],["IssueApiServer","Server trait implementation for the `IssueApi` RPC API."],["IssueRuntimeApi",""]]});
